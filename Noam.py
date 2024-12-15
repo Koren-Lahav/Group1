@@ -1,7 +1,7 @@
 def print_funny_story():
-    print("sigma boy")
+    print("jhdfsjjshskehfsyut")
     print("because yomum wanted to")
 print_funny_story()
 
 def print_childhood_story():
-    print("first time riding on bicycle")
+    print("lhadsjgasuid]kygs you fat eiudwfrwy")
