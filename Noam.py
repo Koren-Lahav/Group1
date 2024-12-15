@@ -1,5 +1,5 @@
 def print_funny_story():
-    print("banana")
+    print("sigma boy")
     print("because yomum wanted to")
 print_funny_story()
 
