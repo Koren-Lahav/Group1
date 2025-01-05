@@ -6,3 +6,4 @@ print_funny_story()
 
 print("hello world")
 print("hi")
+print("asfasf")
